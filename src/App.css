@@ -44,11 +44,17 @@
   overflow: hidden;
 }
 
+.c-nav {
+  margin-right: 850px;
+}
+
+.h-nav {
+  margin-left: 850px;
+}
 
 
 /* Style the links inside the navigation bar */
 .navbar a {
-  margin-left: 800px;
   width: 280px;
   height: 65px;
   border-radius: 20px;
@@ -81,4 +87,17 @@
   width: 450px;
   font-size: 25px;
   margin-left: 720px;
+}
+
+.contactform {
+  width: 450px;
+  font-size: 25px;
+  margin-left: 720px;
+}
+
+#btn {
+  width: 250px;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left: 25px;
 }

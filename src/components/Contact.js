@@ -1,3 +1,4 @@
+import ContactForm from './ContactForm';
 import Navbar from './Navbar';
 
 function Contact() {
@@ -9,6 +10,7 @@ function Contact() {
     return (
         <div className="contact">
             <Navbar />
+            <ContactForm ispis={ispisVrednosti} />
         </div>
     );
 }

@@ -2,7 +2,12 @@ function Navbar() {
 
     return (
         <div className="navbar">
-            <a className="active" href="/">Home</a>
+            <div className="h-nav">
+                <a className="active" href="/">Home</a>
+            </div>
+            <div className="c-nav">
+                <a className="active" href="contact">Contact</a>
+            </div>
         </div>
     );
 }
