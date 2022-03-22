@@ -70,3 +70,15 @@
   background-color: #5b74ff;
   color: white;
 }
+
+.natpis {
+  margin-top: 35px;
+  margin-bottom: 80px;
+  font-size: 50px;
+}
+
+.konvertor {
+  width: 450px;
+  font-size: 25px;
+  margin-left: 720px;
+}
